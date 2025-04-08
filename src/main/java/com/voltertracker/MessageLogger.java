@@ -1,0 +1,1 @@
+// MessageLogger.java content placeholder

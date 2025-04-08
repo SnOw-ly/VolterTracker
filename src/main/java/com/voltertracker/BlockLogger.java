@@ -1,0 +1,1 @@
+// BlockLogger.java content placeholder
