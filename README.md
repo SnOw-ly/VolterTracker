@@ -1,2 +1,2 @@
-# VolterTracker
-Discord Minecraft Logs connect
+## VolterTracker Plugin Folder Structure
+Mc logs discord connecter
