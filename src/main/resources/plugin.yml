@@ -1,0 +1,8 @@
+name: VolterTracker
+version: 1.0
+main: com.voltermc.voltertracker.VolterTracker
+api-version: 1.21
+commands:
+  setlog:
+    description: Set the log channel for the plugin
+    usage: /setlog <channel_id>
